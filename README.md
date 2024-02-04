@@ -1,7 +1,5 @@
 # Ping Pong Game
 
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-cd711c8d59.gif)
-
 A two-player Ping Pong game implemented in Pygame. Players control paddles on either side of the screen and try to bounce the ball past their opponent.
 
 ## Table of Contents
